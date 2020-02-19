@@ -4,6 +4,6 @@
    I am willing to obtain knowledge on WEB Technologies and ready to face challenges during learning process.
 4. No noticable skills yet. Basic knowledge on HTML, CSS, and C++.
 5. HTML & CSS page makeup.
-6. No real professional experience yet.
+6. No professional experience yet.
 7. Udacity, Inc: Front-end Development Nanodegree(enrolled).
-8. Advanced Level. Listening, reading, speaking, and technical writing skills. 
+8. Advanced Level. Listening, reading, speaking, and technical writing skills.
